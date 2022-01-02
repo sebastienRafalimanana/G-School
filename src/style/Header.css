@@ -1,0 +1,44 @@
+
+.head{
+
+  position: relative;
+  min-height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:auto 15px;
+  margin: auto 15px;
+  color: #fefefe;
+}
+.head div:nth-child(3) {
+  display: flex;
+  flex-direction: row;
+
+}
+.head div:nth-child(3) p{
+  padding-left: 10px;
+}
+
+.profil{
+  position: relative;
+  height: 100%;
+
+
+}
+
+p img{
+
+  width:45px;
+  height: 45px;
+  border-radius: 50%;
+  margin-top:-0.8rem;
+
+}
+
+/*pour l'affichage Mobile*/
+@media only screen and (max-width: 768px) {
+  .dateTimer{
+    display: none;
+  }
+  
+}

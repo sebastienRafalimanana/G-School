@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <circle style={{ fill: 'rgba(225, 225, 225, 0.4)' }} cx="95.494" cy="122.854" r="30.205" transform="matrix(1.67493, 0, 0, 1.444034, -84.838043, -65.817322)"/>
+  <circle  style={{fill:' rgba(225, 225, 225,0.5)' }} cx="105.15" cy="131.438" r="17.301" transform="matrix(2.286858, 0, 0, 1.837233, -157.040665, -122.383369)"/>
+</svg>
